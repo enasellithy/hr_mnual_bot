@@ -1,0 +1,74 @@
+HR Manual (8 Pages Equivalent)
+
+1. Hiring & Recruitment
+
+-   Job requisition approval required before opening any position.
+-   HR posts job ads across internal portal and external platforms.
+-   Applications are screened based on minimum qualifications.
+-   Shortlisted candidates proceed to phone screening.
+-   Technical interview conducted by department manager.
+-   HR conducts behavioral interview.
+-   Final hiring decision requires HR + Manager approval.
+-   Offer letter issued after salary alignment and grading.
+
+2. Onboarding
+
+-   New employee must submit all required documents before Day 1.
+-   HR creates employee profile in HRIS.
+-   IT prepares laptop, email, and system access.
+-   Orientation includes company policies, safety training, and role
+    overview.
+-   Manager outlines 90‑day performance plan.
+-   Employee signs Code of Conduct and attendance policy.
+
+3. Leave Management
+
+-   Employees must request leave at least 3 days in advance.
+-   Sick leave requires a medical certificate if longer than 2 days.
+-   Annual leave balance updates automatically after approval.
+-   HR reviews leave trends and identifies potential misuse.
+-   Public holidays are auto‑assigned based on location.
+-   Emergency leave can be granted by HR in special situations.
+
+4. Attendance & Timesheets
+
+-   Attendance is recorded through biometric or mobile app check‑in.
+-   Grace period: 10 minutes in the morning.
+-   Overtime requires prior approval from the department head.
+-   Timesheets must be submitted weekly by all project‑based staff.
+-   HR flags repeated late arrivals for disciplinary review.
+
+5. Payroll Processing
+
+-   Payroll cycle runs from the 1st to the 30th of every month.
+-   Salary components include: Basic, Allowances, Deductions, Overtime.
+-   HR verifies attendance, leave, and overtime before payroll run.
+-   Finance reviews payroll and processes payments.
+-   Payslips are generated automatically and sent by email.
+-   Salary disputes must be raised within 5 working days.
+
+6. Employee Records
+
+-   HR maintains digital files for each employee.
+-   Documents include ID, contracts, certificates, and performance
+    reviews.
+-   Any change in employee data must be updated within 48 hours.
+-   Access to employee data is restricted to HR only.
+-   Record retention period is 7 years after employee exit.
+
+7. Performance Management
+
+-   Annual performance review conducted every December.
+-   KPI template used across all departments.
+-   Mid‑year review required for all employees.
+-   Poor performance triggers a Performance Improvement Plan (PIP).
+-   High performers eligible for bonus and promotion cycle.
+
+8. Offboarding & Exit
+
+-   Employee must submit resignation with a 30‑day notice period.
+-   HR conducts exit interview to gather feedback.
+-   IT disables accounts on the last working day.
+-   Finance settles end‑of‑service and pending allowances.
+-   Clearance form required from all departments.
+-   HR archives employee records after exit process completion.
